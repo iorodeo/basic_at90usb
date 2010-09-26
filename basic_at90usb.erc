@@ -1,0 +1,16 @@
+ERC control (Sun 26 Sep 2010 10:23:41 AM PDT)
+
+***** Sheet / (Root) 
+ERC: Warning: Pin unspc connected to Pin passive (net 60) (X= 8.850 inches, Y= 5.850 inches
+ERC: Warning: Pin unspc connected to Pin passive (net 59) (X= 8.850 inches, Y= 5.650 inches
+ERC: Warning: Pin unspc connected to Pin passive (net 58) (X= 8.850 inches, Y= 5.450 inches
+ERC: Warning: Pin unspc connected to Pin passive (net 5) (X= 8.850 inches, Y= 5.550 inches
+ERC: Warning: Pin unspc connected to Pin passive (net 4) (X= 9.950 inches, Y= 5.450 inches
+ERC: Warning: Pin unspc connected to Pin unspc (net 4) (X= 9.950 inches, Y= 5.850 inches
+ERC: Warning: Pin power_in connected to Pin unspc (net 4) (X= 10.450 inches, Y= 6.050 inches
+ERC: Warning: Pin unspc connected to Pin passive (net 3) (X= 8.850 inches, Y= 5.750 inches
+ERC: Warning: Pin unspc connected to Pin unspc (net 3) (X= 9.950 inches, Y= 5.550 inches
+ERC: Warning: Pin power_in connected to Pin unspc (net 3) (X= 10.250 inches, Y= 5.150 inches
+ERC: Warning: Pin unspc connected to Pin passive (net 1) (X= 9.950 inches, Y= 5.650 inches
+
+ >> Errors ERC: 11
